@@ -1,0 +1,12 @@
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\SnakeProject.csprojAssemblyReference.cache
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SnakeView.resources
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\SnakeProject.csproj.GenerateResource.cache
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filin\Desktop\Snake\WindowsFormsApp1\obj\Debug\SnakeProject.csproj.CopyComplete
